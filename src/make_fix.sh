@@ -1,0 +1,1 @@
+gcc -o fix fix.c -lpmem
